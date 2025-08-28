@@ -1,12 +1,1 @@
-[
-    {
-        "id": 2,
-        "title": "Task 2",
-        "completed": false
-    },
-    {
-        "id": 3,
-        "title": "new tasked added",
-        "completed": false
-    }
-]
+[{"id": 2, "title": "Task 2", "completed": false}, {"id": 4, "title": "new todo added", "completed": false}, {"id": 5, "title": "python revision", "completed": true}]
